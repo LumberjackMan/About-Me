@@ -1,4 +1,4 @@
-# <font color="Pink">About-Logan</color>
+# <font color="Pink">About-Logan</font>
 
 <font color="khaki"> 
 
@@ -8,12 +8,12 @@
 
 ![Plane](./plane.jpg)
 
-## <font color="Pink"> Summary</color>
+## <font color="Pink"> Summary</font>
 
-<i><b><font color="lightgreen">Hello!</i></b> My name is Logan. I am a student at <b> BHS</b> I am currently a sophomore.</color>
+<font color="lightgreen"><i><b>Hello!</b></i> My name is Logan. I am a student at <b> BHS</b> I am currently a sophomore.</font>
 
 ## <font color="pink"> Hobbies
-<i><font color="indianred">Outside of school I like to:</i></color>
+<font color="indianred"><i>Outside of school I like to:</i></font>
 
 <font color="khaki"> 
 
@@ -23,9 +23,9 @@
 * Keep fish, Birds, Reptiles, and amphibians
 * Play my guitar, keyboard, bongos, and ukelele</color>
 
-## <font color="pink"> Skills</color> 
+## <font color="pink"> Skills</font> 
 
-<i><font color="indianred"> Here are some of the things im good at!<i></color>
+<i><font color="indianred"> Here are some of the things im good at!<i></font>
 
 <font color="Khaki">
 
@@ -34,6 +34,7 @@
 * Identification of animals and trees
 * Kickboxing & MMA
 * 
+</font>
 
 
 
@@ -46,10 +47,9 @@
 
 
 
+## <font color="pink"> Music</font>
 
-## <font color="pink"> Music</color>
-
-<font color="lightgreen"> Music is a huge part of my life. Whether it's listening to it or playing it I enjoy a wide variety of music.</color>
+<font color="lightgreen"> Music is a huge part of my life. Whether it's listening to it or playing it I enjoy a wide variety of music.</font>
 
 <i> <font color="indianred"> In no perticular order here are some of my favorite bands!</i>
 
