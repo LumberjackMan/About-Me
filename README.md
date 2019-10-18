@@ -6,7 +6,7 @@
 
 * **Grade:** 11 </color>
 
-![Plane](./Plane.jpg)
+![Plane](./plane.jpg)
 
 ## <font color="Pink"> Summary</color>
 
