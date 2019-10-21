@@ -33,7 +33,6 @@
 * Operating Heavy machinery
 * Identification of animals and trees
 * Kickboxing & MMA
-* 
 </font>
 
 
